@@ -1,0 +1,9 @@
+E:\repos\SortingSort\SortingSort\SortingSort\bin\Debug\SortingSort.exe.config
+E:\repos\SortingSort\SortingSort\SortingSort\bin\Debug\SortingSort.exe
+E:\repos\SortingSort\SortingSort\SortingSort\bin\Debug\SortingSort.pdb
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.Properties.Resources.resources
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.csproj.GenerateResource.cache
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.exe
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.pdb
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.csprojAssemblyReference.cache
+E:\repos\SortingSort\SortingSort\SortingSort\obj\Debug\SortingSort.SortingForm.resources
